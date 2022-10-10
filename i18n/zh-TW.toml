@@ -40,7 +40,7 @@ other = "文章"
 other = "所有{{ .Some }}"
 
 [totalwordCount]
-other = "總計約 {{ .Count }} 字"
+other = "總共 {{ .Count }} 字"
 
 [tag]
 other = "標籤"
@@ -164,7 +164,7 @@ other = "發佈於 {{ .Date }}"
 other = "收錄於 {{ .Categories }}"
 
 [wordCount]
-other = "約 {{ .Count }} 字"
+other = "共 {{ .Count }} 字"
 
 [readingTime]
 other = "預計閱讀 {{ .Count }} 分鐘"
